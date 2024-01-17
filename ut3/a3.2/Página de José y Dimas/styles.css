@@ -1,0 +1,15 @@
+td {
+    border: 5px;
+    border-color: black;
+    border-style: double;
+    padding: 5px;
+}
+
+td:hover {
+    outline: solid;
+    outline-color: red;
+}
+
+tr {
+    color: blue;
+}

@@ -1,0 +1,15 @@
+img {
+    border: 2px solid black;
+}
+
+table img {
+    border-color: blue;
+}
+
+div img {
+    border-color: green;
+}
+
+p img {
+    border-color: red;
+}
